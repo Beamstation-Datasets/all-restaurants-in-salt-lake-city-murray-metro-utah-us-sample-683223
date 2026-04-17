@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant census for the Salt Lake City-Murray metro in Utah. Covers the Wasatch Front's growing dining scene, filtered by the Restaurants category group. Includes verified business profiles, ratings, review analytics, competitive rankings, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Salt Lake City-Murray (Metro), Utah, US",
-  "export_job_id": "62d87542-7062-441c-ba41-3e3cc898f519",
+  "export_job_id": "1147a5fa-f918-4fd5-80f5-d193512ad584",
   "github_org": "Beamstation-Datasets",
   "id_short": 683223,
   "location_name": "Salt Lake City-Murray, UT",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-salt-lake-city-murray-metro-utah-us-sample-683223",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/683223/beamstation_683223_restaurants-us-saltlakecitymurrayut_SAMPLE_DIST.csv",
-  "sample_pct": 12.39,
+  "sample_pct": 9.99,
   "sample_records": 276,
   "sample_sha256": "68aee11e49cf5cfd049714c897181f74ac5ed88f24292d2f79737df386d883ca",
   "sample_size_bytes": 1034324,
-  "total_records": 2228,
-  "updated_at": "2026-03-31T15:00:48.582384+00:00"
+  "total_records": 2763,
+  "updated_at": "2026-04-14T15:50:17.936082+00:00"
 }
