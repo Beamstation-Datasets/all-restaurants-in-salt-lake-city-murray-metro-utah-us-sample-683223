@@ -1,6 +1,6 @@
 # All Restaurants in Salt Lake City-Murray (Metro), Utah, US
 
-> Free BeamStation sample export with 276 rows and masked direct-contact fields.
+> Free BeamStation sample export with 223 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `683223` |
 | Location | Salt Lake City-Murray, UT |
 | Category | Restaurants |
-| Full dataset size | 2,763 records |
-| Free sample size | 276 records (9.99%) |
-| Last export | 2026-04-14T15:50:17.936082+00:00 |
+| Full dataset size | 2,231 records |
+| Free sample size | 223 records (10.0%) |
+| Last export | 2026-04-21T17:11:33.740599+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-salt-lake-city-murray-metro-utah-us-sample-683223/releases/download/sample-latest/beamstation_683223_restaurants-us-saltlakecitymurrayut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
