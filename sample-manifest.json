@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ca5d16ea-367f-44a9-947f-e6eedffaa655",
+  "export_job_id": "cba5a74b-ddbd-49c4-99f8-2cd04757dd11",
   "id_short": 683223,
-  "published_at": "2026-04-21T19:41:38Z",
+  "published_at": "2026-04-28T19:47:25Z",
   "repo_name": "all-restaurants-in-salt-lake-city-murray-metro-utah-us-sample-683223",
   "sample_asset_name": "beamstation_683223_restaurants-us-saltlakecitymurrayut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/683223/beamstation_683223_restaurants-us-saltlakecitymurrayut_SAMPLE_DIST.csv",
-  "sample_records": 223,
-  "sample_sha256": "05db20c05c208b7e5053d78c5426adb753859d25058703cbee50dea51944e720",
-  "sample_size_bytes": 841400,
-  "total_records": 2231
+  "sample_records": 273,
+  "sample_sha256": "53e979682b61f3187ace1524a1f7350dbd8d47d6745907c61efb7c724bf88597",
+  "sample_size_bytes": 926280,
+  "total_records": 2736
 }
